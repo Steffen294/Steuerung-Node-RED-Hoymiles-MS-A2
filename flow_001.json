@@ -469,7 +469,7 @@
         "server": "",
         "outputmode": "event",
         "uploadretryinterval": 5000,
-        "pollinginterval": "200",
+        "pollinginterval": "250",
         "pollstatus": true,
         "getstatusoncommand": false,
         "devicetype": "SPEM-003CEBEU",
