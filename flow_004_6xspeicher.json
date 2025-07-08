@@ -1,0 +1,4082 @@
+[
+    {
+        "id": "957f97855c12c3ac",
+        "type": "tab",
+        "label": "6x Hoymiles MS-A2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "fb2d0205cf664b2d",
+        "type": "group",
+        "z": "957f97855c12c3ac",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9a8785235fc0157d",
+            "9a8376caec093220",
+            "c27dd472e81d6a30",
+            "0decdaeb4d50c95d",
+            "5d6750ee3be86a40",
+            "e44a66ee87fcfd1c",
+            "1e82146954bf7033",
+            "d3190af33ae6cc68",
+            "0927ece2e0537497",
+            "a96ceff709d4de11",
+            "c07b0c1bf5af8962",
+            "bb965b734311c9db",
+            "4dcbb741745dd4eb",
+            "c24fa056c8193b39",
+            "53c29ea4bb0616dd",
+            "445333178cea83f9",
+            "ce02fed743013a51",
+            "36406a4dfc15d1ed",
+            "a4733b7b999afaf3",
+            "a753b4f0414e52c6",
+            "07d4daf9de21b30a",
+            "a0385221a56ab735"
+        ],
+        "x": 54,
+        "y": 39,
+        "w": 992,
+        "h": 502
+    },
+    {
+        "id": "917be28e1c0f852a",
+        "type": "group",
+        "z": "957f97855c12c3ac",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a6b93085875967ed",
+            "5557e2fb9a13dcb0",
+            "47db423b55208fbf",
+            "affab798486c063d",
+            "f1a7280461816073",
+            "69e37c6ae26da592",
+            "a2a58b277259a5c9",
+            "4d30ebb48463e719",
+            "b5e94a70e4f8fae5",
+            "7bd4bffbad50e09e",
+            "a2bc53132744d2b0",
+            "77043c1e044ac7ac",
+            "75564ede261988a5",
+            "eb11855ead77a3b5",
+            "afb3c49d27a1f316",
+            "45462d168a432189",
+            "972c3bac2ce2cec4",
+            "c860d6c0cc7379b4",
+            "a1f3d89de5f4df37",
+            "1084239b2818a628",
+            "902fc0215438357b",
+            "4b097ec001dc1e57",
+            "af045cad12629750",
+            "75c5450156949e40",
+            "863b7ef9db02aa2b",
+            "557dc236a1241905",
+            "663e26ad836d5344"
+        ],
+        "x": 54,
+        "y": 1659,
+        "w": 2012,
+        "h": 502
+    },
+    {
+        "id": "2a63ac9e56dff5d2",
+        "type": "group",
+        "z": "957f97855c12c3ac",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9c3bb06886dd96df",
+            "32aa2ed052d54dde",
+            "52e2cba4003b2255",
+            "72be7dd6a751a717",
+            "d8d34839a6af2d9a",
+            "b672da190c84e78a",
+            "9e2285cb4102fec8",
+            "44510186d9cfaec5",
+            "5b20af4897ad9b18",
+            "a80646ad72982736",
+            "19f976ebe7a9cb9a",
+            "71200e08c2669c85",
+            "d15d32dbeb5676cc",
+            "3e81ecc1b372e209",
+            "f100d29258eefd87",
+            "a0270258e1870f9f",
+            "7b557ca0f895b207",
+            "41fff3fe90087fa7",
+            "ee1c1d6082f58993",
+            "005a77148a1e3e2f",
+            "a0e5de65a69f227b"
+        ],
+        "x": 1074,
+        "y": 39,
+        "w": 992,
+        "h": 502
+    },
+    {
+        "id": "6898213666c97f9e",
+        "type": "group",
+        "z": "957f97855c12c3ac",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "45d97ce1aa134910",
+            "19e76faf2cea7707",
+            "86a179322949c616",
+            "ea716676a0321c94",
+            "9db127c7a4112508",
+            "d750d104cc5704a9",
+            "f2d97917bc5a7e17",
+            "9a6ff073ab18be96",
+            "eddd2dbdaaf7a29e",
+            "338c6ebea466395e",
+            "7890dd62b608d644",
+            "47f897f5bd6c8eb3",
+            "69a6ecd24f9e70eb",
+            "a1fe66f0d2930275",
+            "4969d8e4b137255c",
+            "54f279b448280cd3",
+            "e93b8006a67d4a5e",
+            "c242a9cc5a667f33",
+            "0a82c9fd89b8794b",
+            "c9e8ab5ea10d4047",
+            "0132fd5b38e3dba1"
+        ],
+        "x": 54,
+        "y": 579,
+        "w": 992,
+        "h": 502
+    },
+    {
+        "id": "b80d9756512a9e01",
+        "type": "group",
+        "z": "957f97855c12c3ac",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8fa50cef928c9198",
+            "998ef10e946642c0",
+            "07304a85d96e3a49",
+            "1d6586bea128ee67",
+            "894ab48ff7ab23f1",
+            "e83522900b32f2ca",
+            "feaf2e3e233f1859",
+            "2bbe1269f5e3a667",
+            "35714a73f5a98806",
+            "e1d1d5b3c88dc976",
+            "2385681d4ba7bfc6",
+            "cbf50d58f92488f6",
+            "33c9e497a53648b8",
+            "d2bb947194b7136d",
+            "afcfface6564960c",
+            "e00b4be6d61a8445",
+            "9756f14896373e4a",
+            "107cf2457e29278e",
+            "57bf972fad3511f0",
+            "9e49678e1a5ccaf1",
+            "d7b71759f258d9c2"
+        ],
+        "x": 1074,
+        "y": 579,
+        "w": 992,
+        "h": 502
+    },
+    {
+        "id": "61bc55766cbb88a4",
+        "type": "group",
+        "z": "957f97855c12c3ac",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "edf75deef55968cf",
+            "13f36068cf3c1fe3",
+            "d969fa8ea5a27135",
+            "a9952edf9098ff51",
+            "dce92e5a99e57d20",
+            "2cd280a0cec0d07b",
+            "239a81ec0554de49",
+            "b903b401a9f461f6",
+            "fbb81e47fc76e990",
+            "ff0b5ab1cbd82c54",
+            "7c627b7996fe3b59",
+            "71f4f2ef061532d6",
+            "b379bff6ca7c3d98",
+            "33bd8c056f7e7d53",
+            "8ecfbbd52d978114",
+            "e012f3d2385993f2",
+            "bc2c1c3e487f2103",
+            "1604109c34d94c25",
+            "072cf3e7fa846929",
+            "4b53ebfd118ef495",
+            "2ae017832c8b6583"
+        ],
+        "x": 54,
+        "y": 1119,
+        "w": 992,
+        "h": 502
+    },
+    {
+        "id": "35084abd26d14ef1",
+        "type": "group",
+        "z": "957f97855c12c3ac",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "efc4c77d491c76f0",
+            "865a2a7118cd96aa",
+            "9715250ec55d57ba",
+            "9360b9dbe22db0c4",
+            "690121fef760065f",
+            "4b134af6fe477682",
+            "b66a95e4940a9d52",
+            "1a1092fb4eb4944f",
+            "6afc420cf2f74a53",
+            "e495a7642fd5c4a8",
+            "afaa96830432e539",
+            "6003514c3af23c9c",
+            "f76f74df38d563a4",
+            "e1d769915eb4db3f",
+            "24198787876d8894",
+            "bcfc1641f13484ad",
+            "027340cd2e357767",
+            "40d28ef56a2a87bd",
+            "aaddccd5ff51bec2",
+            "c8daeb015cd1cd03",
+            "a719a9b0f9ac8d06"
+        ],
+        "x": 1074,
+        "y": 1119,
+        "w": 992,
+        "h": 502
+    },
+    {
+        "id": "a4733b7b999afaf3",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Aktivierung MQTT Control",
+        "topic": "homeassistant/select/MSA-12345678/ems_mode/command",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 510,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "a753b4f0414e52c6",
+        "type": "inject",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Aktivierung MQTT Control",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "mqtt_ctrl",
+        "payloadType": "str",
+        "x": 240,
+        "y": 500,
+        "wires": [
+            [
+                "a4733b7b999afaf3"
+            ]
+        ]
+    },
+    {
+        "id": "9a8785235fc0157d",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Quick Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/quick/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 180,
+        "y": 160,
+        "wires": [
+            [
+                "1e82146954bf7033",
+                "d3190af33ae6cc68",
+                "0927ece2e0537497"
+            ]
+        ]
+    },
+    {
+        "id": "9a8376caec093220",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "group": "8eca502d9e109fdb",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie SOC",
+        "format": "{{msg.payload}} %",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 910,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "c27dd472e81d6a30",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Device Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/device/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 320,
+        "wires": [
+            [
+                "a96ceff709d4de11",
+                "bb965b734311c9db"
+            ]
+        ]
+    },
+    {
+        "id": "0decdaeb4d50c95d",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "group": "8eca502d9e109fdb",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Temperatur",
+        "format": "{{msg.payload}} °C",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 930,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "5d6750ee3be86a40",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "group": "8eca502d9e109fdb",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 920,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "07d4daf9de21b30a",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Aktivierung MQTT Control",
+        "info": "",
+        "x": 210,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "e44a66ee87fcfd1c",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "group": "8eca502d9e109fdb",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Leistung",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 900,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "1e82146954bf7033",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Batterie SOC",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.soc",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 430,
+        "y": 280,
+        "wires": [
+            [
+                "445333178cea83f9"
+            ]
+        ]
+    },
+    {
+        "id": "d3190af33ae6cc68",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Batterie Status",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_sts",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 160,
+        "wires": [
+            [
+                "4dcbb741745dd4eb"
+            ]
+        ]
+    },
+    {
+        "id": "0927ece2e0537497",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Hoymiles Leistung",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.grid_on_p",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 200,
+        "wires": [
+            [
+                "ce02fed743013a51"
+            ]
+        ]
+    },
+    {
+        "id": "a96ceff709d4de11",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Batterie Temperatur",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_temp",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 320,
+        "wires": [
+            [
+                "36406a4dfc15d1ed"
+            ]
+        ]
+    },
+    {
+        "id": "c07b0c1bf5af8962",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "group": "8eca502d9e109fdb",
+        "order": 11,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "WLAN Signalstärke",
+        "format": "{{msg.payload}} dBm",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 930,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "bb965b734311c9db",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "WLAN Signalstärke",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rssi",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 360,
+        "wires": [
+            [
+                "c07b0c1bf5af8962"
+            ]
+        ]
+    },
+    {
+        "id": "a6b93085875967ed",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Regelung Hoymiles 6x Speicher",
+        "info": "",
+        "x": 210,
+        "y": 1700,
+        "wires": []
+    },
+    {
+        "id": "5557e2fb9a13dcb0",
+        "type": "shelly-gen2",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "hostname": "192.168.1.24",
+        "description": "Shelly 3Pro EM",
+        "mode": "polling",
+        "verbose": false,
+        "server": "",
+        "outputmode": "event",
+        "uploadretryinterval": 5000,
+        "pollinginterval": "200",
+        "pollstatus": true,
+        "getstatusoncommand": false,
+        "devicetype": "SPEM-003CEBEU",
+        "devicetypemustmatchexactly": true,
+        "captureblutooth": false,
+        "outputs": 1,
+        "x": 160,
+        "y": 1780,
+        "wires": [
+            [
+                "47db423b55208fbf"
+            ]
+        ]
+    },
+    {
+        "id": "47db423b55208fbf",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Leistung Netzanschluss",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.em0.total_act_power",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 390,
+        "y": 1780,
+        "wires": [
+            [
+                "affab798486c063d",
+                "a2a58b277259a5c9"
+            ]
+        ]
+    },
+    {
+        "id": "affab798486c063d",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Nachkommastellen löschen",
+        "func": "msg.payload= msg.payload.toFixed(0);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1780,
+        "wires": [
+            [
+                "45462d168a432189"
+            ]
+        ]
+    },
+    {
+        "id": "f1a7280461816073",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Stellwert Speicher 1",
+        "topic": "homeassistant/number/MSA-12345678/power_ctrl/set",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1940,
+        "y": 1820,
+        "wires": []
+    },
+    {
+        "id": "69e37c6ae26da592",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "group": "f9c729f7db964e48",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Stellwert",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1340,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "a2a58b277259a5c9",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "PI-Regler",
+        "func": "// PI-Regler mit Anti-Windup (Clamping) und Begrenzung von -4000 bis +4000\n\nconst Kp = 0.4;     // Proportionalfaktor\nconst Ki = 0.1;     // Integralfaktor\n\n// Einlesen der Zustände\nlet fehler = msg.payload;\nlet now = Date.now();\nlet lastTime = context.get(\"lastTime\") || now;\nlet dt = Math.max((now - lastTime) / 1000, 0.001); // Zeitdifferenz, min. 1 ms\n\ncontext.set(\"lastTime\", now);\n\n// Reglergrenzen\nconst outputMin = -6000;\nconst outputMax = 6000;\n\n// Integratorstatus\nlet integral = context.get(\"integral\") || 0;\nlet newIntegral = integral + fehler * dt;\n\n// PI-Ausgang berechnen (vor Clamping)\nlet output = Kp * fehler + Ki * newIntegral;\n\n// Anti-Windup durch Clamping\nif (output > outputMax) {\n    output = outputMax;\n    if (fehler < 0) integral = newIntegral;\n} else if (output < outputMin) {\n    output = outputMin;\n    if (fehler > 0) integral = newIntegral;\n} else {\n    integral = newIntegral;\n}\n\n// Zustand speichern\ncontext.set(\"integral\", integral);\n\n// Ausgang setzen\nmsg.payload = output;\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 600,
+        "y": 1820,
+        "wires": [
+            [
+                "4d30ebb48463e719"
+            ]
+        ]
+    },
+    {
+        "id": "4dcbb741745dd4eb",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Übersetzung auf deutsch",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "discharge",
+                "fromt": "str",
+                "to": "Entladen",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "charge",
+                "fromt": "str",
+                "to": "Laden",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "standby",
+                "fromt": "str",
+                "to": "Ruhezustand",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 160,
+        "wires": [
+            [
+                "5d6750ee3be86a40"
+            ]
+        ]
+    },
+    {
+        "id": "c24fa056c8193b39",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Speicher 1",
+        "info": "",
+        "x": 140,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "53c29ea4bb0616dd",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "Info bitte lesen",
+        "info": "1.)\nEs müssen folgende Node-RED Paletten installiert werden:\nnode-red-contrib-shelly\nnode-red-dashboard\nnode-red-contrib-simple-gate\nnode-red-contrib-ui-time-scheduler\n\n2.)\nDie IP Adressen für den MQTT Broker und den Shelly 3PRO EM müssen angepasst werden.\n\n3.)\nDie Seriennummer des Hoymiles Speichers muss in den MQTT Nodes angepasst werden.\n\n4.)\nMQTT in der Hoymiles App aktivieren.",
+        "x": 320,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "4d30ebb48463e719",
+        "type": "gate",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "",
+        "controlTopic": "control",
+        "defaultState": "open",
+        "openCmd": "open",
+        "closeCmd": "close",
+        "toggleCmd": "toggle",
+        "defaultCmd": "default",
+        "statusCmd": "status",
+        "persist": false,
+        "storeName": "memory",
+        "x": 1070,
+        "y": 1820,
+        "wires": [
+            [
+                "69e37c6ae26da592",
+                "972c3bac2ce2cec4"
+            ]
+        ]
+    },
+    {
+        "id": "b5e94a70e4f8fae5",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "close",
+                "fromt": "str",
+                "to": "0",
+                "tot": "num"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "open",
+                "fromt": "str",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1030,
+        "y": 1940,
+        "wires": [
+            [
+                "69e37c6ae26da592",
+                "972c3bac2ce2cec4"
+            ]
+        ]
+    },
+    {
+        "id": "7bd4bffbad50e09e",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Zeitschaltuhr",
+        "info": "",
+        "x": 230,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "a2bc53132744d2b0",
+        "type": "ui_time_scheduler",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "group": "e0a8edcc62f7e5e3",
+        "name": "Zeitschaltuhr",
+        "startDay": "1",
+        "refresh": 60,
+        "devices": [
+            "Zeitschaltuhr"
+        ],
+        "singleOff": false,
+        "onlySendChange": false,
+        "customPayload": false,
+        "eventMode": false,
+        "eventOptions": [],
+        "sendTopic": false,
+        "lat": "",
+        "lon": "",
+        "customContextStore": "",
+        "outputs": 2,
+        "order": 1,
+        "width": 6,
+        "height": 2,
+        "x": 610,
+        "y": 1920,
+        "wires": [
+            [
+                "77043c1e044ac7ac"
+            ],
+            [
+                "afb3c49d27a1f316"
+            ]
+        ]
+    },
+    {
+        "id": "77043c1e044ac7ac",
+        "type": "file",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "",
+        "filename": "./timerHM.data",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "true",
+        "encoding": "none",
+        "x": 800,
+        "y": 1900,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "75564ede261988a5",
+        "type": "file in",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "",
+        "filename": "./timerHM.data",
+        "filenameType": "str",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 420,
+        "y": 1920,
+        "wires": [
+            [
+                "a2bc53132744d2b0"
+            ]
+        ]
+    },
+    {
+        "id": "eb11855ead77a3b5",
+        "type": "inject",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Reboot",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 240,
+        "y": 1920,
+        "wires": [
+            [
+                "75564ede261988a5"
+            ]
+        ]
+    },
+    {
+        "id": "afb3c49d27a1f316",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "open",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "close",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "topic",
+                "pt": "msg",
+                "to": "control",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 810,
+        "y": 1940,
+        "wires": [
+            [
+                "b5e94a70e4f8fae5",
+                "4d30ebb48463e719"
+            ]
+        ]
+    },
+    {
+        "id": "445333178cea83f9",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 280,
+        "wires": [
+            [
+                "9a8376caec093220"
+            ]
+        ]
+    },
+    {
+        "id": "ce02fed743013a51",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 200,
+        "wires": [
+            [
+                "e44a66ee87fcfd1c",
+                "a0385221a56ab735"
+            ]
+        ]
+    },
+    {
+        "id": "45462d168a432189",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 900,
+        "y": 1780,
+        "wires": [
+            [
+                "863b7ef9db02aa2b"
+            ]
+        ]
+    },
+    {
+        "id": "36406a4dfc15d1ed",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 320,
+        "wires": [
+            [
+                "0decdaeb4d50c95d"
+            ]
+        ]
+    },
+    {
+        "id": "972c3bac2ce2cec4",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Leistung für sechs Speicher",
+        "func": "var math = Number(msg.payload) /6;\nmsg.payload = math;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1400,
+        "y": 1820,
+        "wires": [
+            [
+                "f1a7280461816073",
+                "c860d6c0cc7379b4",
+                "a1f3d89de5f4df37",
+                "1084239b2818a628",
+                "557dc236a1241905",
+                "663e26ad836d5344"
+            ]
+        ]
+    },
+    {
+        "id": "c860d6c0cc7379b4",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Stellwert Speicher 2",
+        "topic": "homeassistant/number/MSA-12345678/power_ctrl/set",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1940,
+        "y": 1880,
+        "wires": []
+    },
+    {
+        "id": "a1f3d89de5f4df37",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Stellwert Speicher 3",
+        "topic": "homeassistant/number/MSA-12345678/power_ctrl/set",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1940,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "1084239b2818a628",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Stellwert Speicher 4",
+        "topic": "homeassistant/number/MSA-12345678/power_ctrl/set",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1940,
+        "y": 2000,
+        "wires": []
+    },
+    {
+        "id": "9c3bb06886dd96df",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Quick Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/quick/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1200,
+        "y": 160,
+        "wires": [
+            [
+                "9e2285cb4102fec8",
+                "44510186d9cfaec5",
+                "5b20af4897ad9b18"
+            ]
+        ]
+    },
+    {
+        "id": "32aa2ed052d54dde",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "group": "dee91541b925e7e8",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie SOC",
+        "format": "{{msg.payload}} %",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1930,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "52e2cba4003b2255",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Device Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/device/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1210,
+        "y": 320,
+        "wires": [
+            [
+                "a80646ad72982736",
+                "71200e08c2669c85"
+            ]
+        ]
+    },
+    {
+        "id": "72be7dd6a751a717",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "group": "dee91541b925e7e8",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Temperatur",
+        "format": "{{msg.payload}} °C",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1950,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "d8d34839a6af2d9a",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "group": "dee91541b925e7e8",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1940,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "b672da190c84e78a",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "group": "dee91541b925e7e8",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Leistung",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1920,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "9e2285cb4102fec8",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Batterie SOC",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.soc",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1450,
+        "y": 280,
+        "wires": [
+            [
+                "f100d29258eefd87"
+            ]
+        ]
+    },
+    {
+        "id": "44510186d9cfaec5",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Batterie Status",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_sts",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1460,
+        "y": 160,
+        "wires": [
+            [
+                "d15d32dbeb5676cc"
+            ]
+        ]
+    },
+    {
+        "id": "5b20af4897ad9b18",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Hoymiles Leistung",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.grid_on_p",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 200,
+        "wires": [
+            [
+                "a0270258e1870f9f"
+            ]
+        ]
+    },
+    {
+        "id": "a80646ad72982736",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Batterie Temperatur",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_temp",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 320,
+        "wires": [
+            [
+                "7b557ca0f895b207"
+            ]
+        ]
+    },
+    {
+        "id": "19f976ebe7a9cb9a",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "group": "dee91541b925e7e8",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "WLAN Signalstärke",
+        "format": "{{msg.payload}} dBm",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1950,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "71200e08c2669c85",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "WLAN Signalstärke",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rssi",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 360,
+        "wires": [
+            [
+                "19f976ebe7a9cb9a"
+            ]
+        ]
+    },
+    {
+        "id": "d15d32dbeb5676cc",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Übersetzung auf deutsch",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "discharge",
+                "fromt": "str",
+                "to": "Entladen",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "charge",
+                "fromt": "str",
+                "to": "Laden",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "standby",
+                "fromt": "str",
+                "to": "Ruhezustand",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1710,
+        "y": 160,
+        "wires": [
+            [
+                "d8d34839a6af2d9a"
+            ]
+        ]
+    },
+    {
+        "id": "3e81ecc1b372e209",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Speicher 2",
+        "info": "",
+        "x": 1160,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "f100d29258eefd87",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 280,
+        "wires": [
+            [
+                "32aa2ed052d54dde"
+            ]
+        ]
+    },
+    {
+        "id": "a0270258e1870f9f",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 200,
+        "wires": [
+            [
+                "b672da190c84e78a",
+                "a0e5de65a69f227b"
+            ]
+        ]
+    },
+    {
+        "id": "7b557ca0f895b207",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 320,
+        "wires": [
+            [
+                "72be7dd6a751a717"
+            ]
+        ]
+    },
+    {
+        "id": "41fff3fe90087fa7",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Aktivierung MQTT Control",
+        "topic": "homeassistant/select/MSA-12345678/ems_mode/command",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1530,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "ee1c1d6082f58993",
+        "type": "inject",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Aktivierung MQTT Control",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "mqtt_ctrl",
+        "payloadType": "str",
+        "x": 1260,
+        "y": 500,
+        "wires": [
+            [
+                "41fff3fe90087fa7"
+            ]
+        ]
+    },
+    {
+        "id": "005a77148a1e3e2f",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "Aktivierung MQTT Control",
+        "info": "",
+        "x": 1230,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "45d97ce1aa134910",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Quick Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/quick/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 180,
+        "y": 700,
+        "wires": [
+            [
+                "f2d97917bc5a7e17",
+                "9a6ff073ab18be96",
+                "eddd2dbdaaf7a29e"
+            ]
+        ]
+    },
+    {
+        "id": "19e76faf2cea7707",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "group": "db6cdad420edd5cc",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie SOC",
+        "format": "{{msg.payload}} %",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 910,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "86a179322949c616",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Device Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/device/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 860,
+        "wires": [
+            [
+                "338c6ebea466395e",
+                "47f897f5bd6c8eb3"
+            ]
+        ]
+    },
+    {
+        "id": "ea716676a0321c94",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "group": "db6cdad420edd5cc",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Temperatur",
+        "format": "{{msg.payload}} °C",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 930,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "9db127c7a4112508",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "group": "db6cdad420edd5cc",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 920,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "d750d104cc5704a9",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "group": "db6cdad420edd5cc",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Leistung",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 900,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "f2d97917bc5a7e17",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Batterie SOC",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.soc",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 430,
+        "y": 820,
+        "wires": [
+            [
+                "4969d8e4b137255c"
+            ]
+        ]
+    },
+    {
+        "id": "9a6ff073ab18be96",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Batterie Status",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_sts",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 700,
+        "wires": [
+            [
+                "69a6ecd24f9e70eb"
+            ]
+        ]
+    },
+    {
+        "id": "eddd2dbdaaf7a29e",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Hoymiles Leistung",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.grid_on_p",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 740,
+        "wires": [
+            [
+                "54f279b448280cd3"
+            ]
+        ]
+    },
+    {
+        "id": "338c6ebea466395e",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Batterie Temperatur",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_temp",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 860,
+        "wires": [
+            [
+                "e93b8006a67d4a5e"
+            ]
+        ]
+    },
+    {
+        "id": "7890dd62b608d644",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "group": "db6cdad420edd5cc",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "WLAN Signalstärke",
+        "format": "{{msg.payload}} dBm",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 930,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "47f897f5bd6c8eb3",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "WLAN Signalstärke",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rssi",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 900,
+        "wires": [
+            [
+                "7890dd62b608d644"
+            ]
+        ]
+    },
+    {
+        "id": "69a6ecd24f9e70eb",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Übersetzung auf deutsch",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "discharge",
+                "fromt": "str",
+                "to": "Entladen",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "charge",
+                "fromt": "str",
+                "to": "Laden",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "standby",
+                "fromt": "str",
+                "to": "Ruhezustand",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 700,
+        "wires": [
+            [
+                "9db127c7a4112508"
+            ]
+        ]
+    },
+    {
+        "id": "a1fe66f0d2930275",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Speicher 3",
+        "info": "",
+        "x": 140,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "4969d8e4b137255c",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 820,
+        "wires": [
+            [
+                "19e76faf2cea7707"
+            ]
+        ]
+    },
+    {
+        "id": "54f279b448280cd3",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 740,
+        "wires": [
+            [
+                "d750d104cc5704a9",
+                "0132fd5b38e3dba1"
+            ]
+        ]
+    },
+    {
+        "id": "e93b8006a67d4a5e",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 860,
+        "wires": [
+            [
+                "ea716676a0321c94"
+            ]
+        ]
+    },
+    {
+        "id": "c242a9cc5a667f33",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Aktivierung MQTT Control",
+        "topic": "homeassistant/select/MSA-12345678/ems_mode/command",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 510,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "0a82c9fd89b8794b",
+        "type": "inject",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Aktivierung MQTT Control",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "mqtt_ctrl",
+        "payloadType": "str",
+        "x": 240,
+        "y": 1040,
+        "wires": [
+            [
+                "c242a9cc5a667f33"
+            ]
+        ]
+    },
+    {
+        "id": "c9e8ab5ea10d4047",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "Aktivierung MQTT Control",
+        "info": "",
+        "x": 210,
+        "y": 1000,
+        "wires": []
+    },
+    {
+        "id": "8fa50cef928c9198",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Quick Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/quick/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1200,
+        "y": 700,
+        "wires": [
+            [
+                "feaf2e3e233f1859",
+                "2bbe1269f5e3a667",
+                "35714a73f5a98806"
+            ]
+        ]
+    },
+    {
+        "id": "998ef10e946642c0",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "group": "4b586ed37bf28551",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie SOC",
+        "format": "{{msg.payload}} %",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1930,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "07304a85d96e3a49",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Device Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/device/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1210,
+        "y": 860,
+        "wires": [
+            [
+                "e1d1d5b3c88dc976",
+                "cbf50d58f92488f6"
+            ]
+        ]
+    },
+    {
+        "id": "1d6586bea128ee67",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "group": "4b586ed37bf28551",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Temperatur",
+        "format": "{{msg.payload}} °C",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1950,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "894ab48ff7ab23f1",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "group": "4b586ed37bf28551",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1940,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "e83522900b32f2ca",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "group": "4b586ed37bf28551",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Leistung",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1920,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "feaf2e3e233f1859",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Batterie SOC",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.soc",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1450,
+        "y": 820,
+        "wires": [
+            [
+                "afcfface6564960c"
+            ]
+        ]
+    },
+    {
+        "id": "2bbe1269f5e3a667",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Batterie Status",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_sts",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1460,
+        "y": 700,
+        "wires": [
+            [
+                "33c9e497a53648b8"
+            ]
+        ]
+    },
+    {
+        "id": "35714a73f5a98806",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Hoymiles Leistung",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.grid_on_p",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 740,
+        "wires": [
+            [
+                "e00b4be6d61a8445"
+            ]
+        ]
+    },
+    {
+        "id": "e1d1d5b3c88dc976",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Batterie Temperatur",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_temp",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 860,
+        "wires": [
+            [
+                "9756f14896373e4a"
+            ]
+        ]
+    },
+    {
+        "id": "2385681d4ba7bfc6",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "group": "4b586ed37bf28551",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "WLAN Signalstärke",
+        "format": "{{msg.payload}} dBm",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1950,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "cbf50d58f92488f6",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "WLAN Signalstärke",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rssi",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 900,
+        "wires": [
+            [
+                "2385681d4ba7bfc6"
+            ]
+        ]
+    },
+    {
+        "id": "33c9e497a53648b8",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Übersetzung auf deutsch",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "discharge",
+                "fromt": "str",
+                "to": "Entladen",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "charge",
+                "fromt": "str",
+                "to": "Laden",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "standby",
+                "fromt": "str",
+                "to": "Ruhezustand",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1710,
+        "y": 700,
+        "wires": [
+            [
+                "894ab48ff7ab23f1"
+            ]
+        ]
+    },
+    {
+        "id": "d2bb947194b7136d",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Speicher 4",
+        "info": "",
+        "x": 1160,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "afcfface6564960c",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 820,
+        "wires": [
+            [
+                "998ef10e946642c0"
+            ]
+        ]
+    },
+    {
+        "id": "e00b4be6d61a8445",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 740,
+        "wires": [
+            [
+                "e83522900b32f2ca",
+                "d7b71759f258d9c2"
+            ]
+        ]
+    },
+    {
+        "id": "9756f14896373e4a",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 860,
+        "wires": [
+            [
+                "1d6586bea128ee67"
+            ]
+        ]
+    },
+    {
+        "id": "107cf2457e29278e",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Aktivierung MQTT Control",
+        "topic": "homeassistant/select/MSA-12345678/ems_mode/command",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1530,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "57bf972fad3511f0",
+        "type": "inject",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Aktivierung MQTT Control",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "mqtt_ctrl",
+        "payloadType": "str",
+        "x": 1260,
+        "y": 1040,
+        "wires": [
+            [
+                "107cf2457e29278e"
+            ]
+        ]
+    },
+    {
+        "id": "9e49678e1a5ccaf1",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "Aktivierung MQTT Control",
+        "info": "",
+        "x": 1230,
+        "y": 1000,
+        "wires": []
+    },
+    {
+        "id": "a0385221a56ab735",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "fb2d0205cf664b2d",
+        "name": "P1",
+        "rules": [
+            {
+                "t": "set",
+                "p": "P1",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 890,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a0e5de65a69f227b",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "2a63ac9e56dff5d2",
+        "name": "P2",
+        "rules": [
+            {
+                "t": "set",
+                "p": "P1",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1910,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0132fd5b38e3dba1",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "6898213666c97f9e",
+        "name": "P3",
+        "rules": [
+            {
+                "t": "set",
+                "p": "P3",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 890,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d7b71759f258d9c2",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "b80d9756512a9e01",
+        "name": "P4",
+        "rules": [
+            {
+                "t": "set",
+                "p": "P4",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1910,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "902fc0215438357b",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Summe Speicher",
+        "func": "let p1 = global.get(\"P1\") || 0;\nlet p2 = global.get(\"P2\") || 0;\nlet p3 = global.get(\"P3\") || 0;\nlet p4 = global.get(\"P4\") || 0;\nlet p5 = global.get(\"P5\") || 0;\nlet p6 = global.get(\"P6\") || 0;\n\nlet summe = p1 + p2 + p3 + p4 + p5 + p6;\n\nmsg.payload = summe;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 2020,
+        "wires": [
+            [
+                "75c5450156949e40"
+            ]
+        ]
+    },
+    {
+        "id": "4b097ec001dc1e57",
+        "type": "inject",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 230,
+        "y": 2020,
+        "wires": [
+            [
+                "902fc0215438357b"
+            ]
+        ]
+    },
+    {
+        "id": "af045cad12629750",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "group": "f9c729f7db964e48",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Leistung Speicher",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 910,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "75c5450156949e40",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Nachkommastellen löschen",
+        "func": "msg.payload= msg.payload.toFixed(0);\nreturn msg;",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 2020,
+        "wires": [
+            [
+                "af045cad12629750"
+            ]
+        ]
+    },
+    {
+        "id": "863b7ef9db02aa2b",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "group": "f9c729f7db964e48",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Netzanschluss",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1100,
+        "y": 1780,
+        "wires": []
+    },
+    {
+        "id": "edf75deef55968cf",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Quick Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/quick/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 180,
+        "y": 1240,
+        "wires": [
+            [
+                "239a81ec0554de49",
+                "b903b401a9f461f6",
+                "fbb81e47fc76e990"
+            ]
+        ]
+    },
+    {
+        "id": "13f36068cf3c1fe3",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "group": "8c93968346493562",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie SOC",
+        "format": "{{msg.payload}} %",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 910,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "d969fa8ea5a27135",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Device Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/device/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 1400,
+        "wires": [
+            [
+                "ff0b5ab1cbd82c54",
+                "71f4f2ef061532d6"
+            ]
+        ]
+    },
+    {
+        "id": "a9952edf9098ff51",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "group": "8c93968346493562",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Temperatur",
+        "format": "{{msg.payload}} °C",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 930,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "dce92e5a99e57d20",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "group": "8c93968346493562",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 920,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "2cd280a0cec0d07b",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "group": "8c93968346493562",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Leistung",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 900,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "239a81ec0554de49",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Batterie SOC",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.soc",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 430,
+        "y": 1360,
+        "wires": [
+            [
+                "8ecfbbd52d978114"
+            ]
+        ]
+    },
+    {
+        "id": "b903b401a9f461f6",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Batterie Status",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_sts",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 1240,
+        "wires": [
+            [
+                "b379bff6ca7c3d98"
+            ]
+        ]
+    },
+    {
+        "id": "fbb81e47fc76e990",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Hoymiles Leistung",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.grid_on_p",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 1280,
+        "wires": [
+            [
+                "e012f3d2385993f2"
+            ]
+        ]
+    },
+    {
+        "id": "ff0b5ab1cbd82c54",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Batterie Temperatur",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_temp",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 1400,
+        "wires": [
+            [
+                "bc2c1c3e487f2103"
+            ]
+        ]
+    },
+    {
+        "id": "7c627b7996fe3b59",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "group": "8c93968346493562",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "WLAN Signalstärke",
+        "format": "{{msg.payload}} dBm",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 930,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "71f4f2ef061532d6",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "WLAN Signalstärke",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rssi",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 450,
+        "y": 1440,
+        "wires": [
+            [
+                "7c627b7996fe3b59"
+            ]
+        ]
+    },
+    {
+        "id": "b379bff6ca7c3d98",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Übersetzung auf deutsch",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "discharge",
+                "fromt": "str",
+                "to": "Entladen",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "charge",
+                "fromt": "str",
+                "to": "Laden",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "standby",
+                "fromt": "str",
+                "to": "Ruhezustand",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 690,
+        "y": 1240,
+        "wires": [
+            [
+                "dce92e5a99e57d20"
+            ]
+        ]
+    },
+    {
+        "id": "33bd8c056f7e7d53",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Speicher 5",
+        "info": "",
+        "x": 140,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "8ecfbbd52d978114",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1360,
+        "wires": [
+            [
+                "13f36068cf3c1fe3"
+            ]
+        ]
+    },
+    {
+        "id": "e012f3d2385993f2",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1280,
+        "wires": [
+            [
+                "2cd280a0cec0d07b",
+                "2ae017832c8b6583"
+            ]
+        ]
+    },
+    {
+        "id": "bc2c1c3e487f2103",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1400,
+        "wires": [
+            [
+                "a9952edf9098ff51"
+            ]
+        ]
+    },
+    {
+        "id": "1604109c34d94c25",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Aktivierung MQTT Control",
+        "topic": "homeassistant/select/MSA-12345678/ems_mode/command",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 510,
+        "y": 1580,
+        "wires": []
+    },
+    {
+        "id": "072cf3e7fa846929",
+        "type": "inject",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Aktivierung MQTT Control",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "mqtt_ctrl",
+        "payloadType": "str",
+        "x": 240,
+        "y": 1580,
+        "wires": [
+            [
+                "1604109c34d94c25"
+            ]
+        ]
+    },
+    {
+        "id": "4b53ebfd118ef495",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "Aktivierung MQTT Control",
+        "info": "",
+        "x": 210,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "2ae017832c8b6583",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "61bc55766cbb88a4",
+        "name": "P5",
+        "rules": [
+            {
+                "t": "set",
+                "p": "P5",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 890,
+        "y": 1320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "efc4c77d491c76f0",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Quick Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/quick/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1200,
+        "y": 1240,
+        "wires": [
+            [
+                "b66a95e4940a9d52",
+                "1a1092fb4eb4944f",
+                "6afc420cf2f74a53"
+            ]
+        ]
+    },
+    {
+        "id": "865a2a7118cd96aa",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "group": "726858b3042afb68",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie SOC",
+        "format": "{{msg.payload}} %",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1930,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "9715250ec55d57ba",
+        "type": "mqtt in",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Device Abfrage Hoymiles",
+        "topic": "homeassistant/sensor/MSA-12345678/device/state",
+        "qos": "0",
+        "datatype": "auto-detect",
+        "broker": "9fe3ac6adcf287e4",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 1210,
+        "y": 1400,
+        "wires": [
+            [
+                "e495a7642fd5c4a8",
+                "6003514c3af23c9c"
+            ]
+        ]
+    },
+    {
+        "id": "9360b9dbe22db0c4",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "group": "726858b3042afb68",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Temperatur",
+        "format": "{{msg.payload}} °C",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1950,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "690121fef760065f",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "group": "726858b3042afb68",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Batterie Status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1940,
+        "y": 1240,
+        "wires": []
+    },
+    {
+        "id": "4b134af6fe477682",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "group": "726858b3042afb68",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Leistung",
+        "format": "{{msg.payload}} W",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1920,
+        "y": 1280,
+        "wires": []
+    },
+    {
+        "id": "b66a95e4940a9d52",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Batterie SOC",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.soc",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1450,
+        "y": 1360,
+        "wires": [
+            [
+                "24198787876d8894"
+            ]
+        ]
+    },
+    {
+        "id": "1a1092fb4eb4944f",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Batterie Status",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_sts",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1460,
+        "y": 1240,
+        "wires": [
+            [
+                "f76f74df38d563a4"
+            ]
+        ]
+    },
+    {
+        "id": "6afc420cf2f74a53",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Hoymiles Leistung",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.grid_on_p",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 1280,
+        "wires": [
+            [
+                "bcfc1641f13484ad"
+            ]
+        ]
+    },
+    {
+        "id": "e495a7642fd5c4a8",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Batterie Temperatur",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.bat_temp",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 1400,
+        "wires": [
+            [
+                "027340cd2e357767"
+            ]
+        ]
+    },
+    {
+        "id": "afaa96830432e539",
+        "type": "ui_text",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "group": "726858b3042afb68",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "WLAN Signalstärke",
+        "format": "{{msg.payload}} dBm",
+        "layout": "row-spread",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 1950,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "6003514c3af23c9c",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "WLAN Signalstärke",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.rssi",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1470,
+        "y": 1440,
+        "wires": [
+            [
+                "afaa96830432e539"
+            ]
+        ]
+    },
+    {
+        "id": "f76f74df38d563a4",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Übersetzung auf deutsch",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "discharge",
+                "fromt": "str",
+                "to": "Entladen",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "charge",
+                "fromt": "str",
+                "to": "Laden",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "standby",
+                "fromt": "str",
+                "to": "Ruhezustand",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1710,
+        "y": 1240,
+        "wires": [
+            [
+                "690121fef760065f"
+            ]
+        ]
+    },
+    {
+        "id": "e1d769915eb4db3f",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Speicher 6",
+        "info": "",
+        "x": 1160,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "24198787876d8894",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 1360,
+        "wires": [
+            [
+                "865a2a7118cd96aa"
+            ]
+        ]
+    },
+    {
+        "id": "bcfc1641f13484ad",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 1280,
+        "wires": [
+            [
+                "4b134af6fe477682",
+                "a719a9b0f9ac8d06"
+            ]
+        ]
+    },
+    {
+        "id": "027340cd2e357767",
+        "type": "function",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "string to number",
+        "func": "msg.payload = Number(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1680,
+        "y": 1400,
+        "wires": [
+            [
+                "9360b9dbe22db0c4"
+            ]
+        ]
+    },
+    {
+        "id": "40d28ef56a2a87bd",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Aktivierung MQTT Control",
+        "topic": "homeassistant/select/MSA-12345678/ems_mode/command",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1530,
+        "y": 1580,
+        "wires": []
+    },
+    {
+        "id": "aaddccd5ff51bec2",
+        "type": "inject",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Aktivierung MQTT Control",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "10",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "mqtt_ctrl",
+        "payloadType": "str",
+        "x": 1260,
+        "y": 1580,
+        "wires": [
+            [
+                "40d28ef56a2a87bd"
+            ]
+        ]
+    },
+    {
+        "id": "c8daeb015cd1cd03",
+        "type": "comment",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "Aktivierung MQTT Control",
+        "info": "",
+        "x": 1230,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "a719a9b0f9ac8d06",
+        "type": "change",
+        "z": "957f97855c12c3ac",
+        "g": "35084abd26d14ef1",
+        "name": "P6",
+        "rules": [
+            {
+                "t": "set",
+                "p": "P6",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1910,
+        "y": 1320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "557dc236a1241905",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Stellwert Speicher 5",
+        "topic": "homeassistant/number/MSA-12345678/power_ctrl/set",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1940,
+        "y": 2060,
+        "wires": []
+    },
+    {
+        "id": "663e26ad836d5344",
+        "type": "mqtt out",
+        "z": "957f97855c12c3ac",
+        "g": "917be28e1c0f852a",
+        "name": "Stellwert Speicher 6",
+        "topic": "homeassistant/number/MSA-12345678/power_ctrl/set",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "9fe3ac6adcf287e4",
+        "x": 1940,
+        "y": 2120,
+        "wires": []
+    },
+    {
+        "id": "9fe3ac6adcf287e4",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "192.168.1.206",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "8eca502d9e109fdb",
+        "type": "ui_group",
+        "name": "Speicher 1",
+        "tab": "3dbc2bc348a4cead",
+        "order": 3,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "f9c729f7db964e48",
+        "type": "ui_group",
+        "name": "Übersicht",
+        "tab": "3dbc2bc348a4cead",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "e0a8edcc62f7e5e3",
+        "type": "ui_group",
+        "name": "Zeitschaltuhr",
+        "tab": "3dbc2bc348a4cead",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "dee91541b925e7e8",
+        "type": "ui_group",
+        "name": "Speicher 2",
+        "tab": "3dbc2bc348a4cead",
+        "order": 4,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "db6cdad420edd5cc",
+        "type": "ui_group",
+        "name": "Speicher 3",
+        "tab": "3dbc2bc348a4cead",
+        "order": 5,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4b586ed37bf28551",
+        "type": "ui_group",
+        "name": "Speicher 4",
+        "tab": "3dbc2bc348a4cead",
+        "order": 6,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "8c93968346493562",
+        "type": "ui_group",
+        "name": "Speicher 5",
+        "tab": "3dbc2bc348a4cead",
+        "order": 7,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "726858b3042afb68",
+        "type": "ui_group",
+        "name": "Speicher 6",
+        "tab": "3dbc2bc348a4cead",
+        "order": 8,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "3dbc2bc348a4cead",
+        "type": "ui_tab",
+        "name": "Hoymiles",
+        "icon": "dashboard",
+        "order": 6,
+        "disabled": false,
+        "hidden": false
+    }
+]
