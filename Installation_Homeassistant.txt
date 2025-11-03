@@ -20,4 +20,4 @@ Die Seriennummer der Hoymiles Speichers müssen in den MQTT Nodes angepasst werd
 MQTT Einstellungen in der Hoymiles App aktivieren.
 
 Aufruf der Node-RED WEB UI:
-http://iphomeassistant:1880/endpoint/u
+http://iphomeassistant:1880/endpoint/ui
