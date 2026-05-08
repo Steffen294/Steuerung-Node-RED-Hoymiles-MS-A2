@@ -1,2 +1,1 @@
-# Control-Node-RED-Hoymiles-MS-A2
-Control Hoymiles-MS-A2 with Node-RED and MQTT
+Control Hoymiles Speicher MS-A2 / HiBattery-AC with Node-RED
