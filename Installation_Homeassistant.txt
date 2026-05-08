@@ -9,13 +9,10 @@ MQTT einrichten:
 Node-RED:
 Node-RED Github JSON File in Node-RED importieren:
 
-Es müssen folgende Node-RED Paletten installiert werden:
-node-red-contrib-shelly
-node-red-dashboard
+Die IP Adressen für den MQTT Broker und den Shelly PRO 3EM müssen angepasst werden.
+Modbus auf dem Shelly PRO3 EM aktivieren.
 
-Die IP Adressen für den MQTT Broker und den Shelly 3PRO EM müssen angepasst werden.
-
-Die Seriennummer der Hoymiles Speichers müssen in den MQTT Nodes angepasst werden. L1 L2 L3 beachten!
+Die Seriennummer der Hoymiles Speichers müssen in den MQTT Nodes angepasst werden.
 
 MQTT Einstellungen in der Hoymiles App aktivieren.
 
