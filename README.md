@@ -1,1 +1,3 @@
-Control Hoymiles Speicher MS-A2 / HiBattery-AC with Node-RED
+Node-RED Steuerung Hoymiles Speicher MS-A2 / HiBattery-AC
+
+Shelly PRO 3EM mit Modbus
